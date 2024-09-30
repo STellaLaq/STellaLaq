@@ -1,4 +1,4 @@
-# Hi there, I'm Huijin Chen 👋
+## Hi there, I'm Huijin Chen 👋
 
 I am a passionate data scientist with a background in **Health Data Science** and **Molecular Biology**. Currently pursuing an MSc in Health Data Science at **London School of Economics**, I'm focused on leveraging data to drive meaningful health insights. I have experience working with data pipelines, machine learning models, and advanced data analytics in both academic and professional settings.
 
