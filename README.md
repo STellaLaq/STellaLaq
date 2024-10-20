@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: My MSc in Health Data Science at LSE, focusing on big data analysis and machine learning in healthcare.<br><br>👯 I’m looking to collaborate on: Data science projects related to health economics, predictive modeling, and bioinformatics.<br><br>🌱 I’m currently learning: Data Analysis, Machine Learning, Distributed Computing, Health Econometrics
+🔭 I’m currently working on: MSc in Health Data Science at LSE, focusing on big data analysis and machine learning in healthcare.<br><br>👯 I’m looking to collaborate on: Data science projects related to health economics, predictive modeling, and bioinformatics.<br><br>🌱 I’m currently learning: Data Analysis, Machine Learning, Distributed Computing, Health Econometrics
 
 
 ## 🌐 Socials:
